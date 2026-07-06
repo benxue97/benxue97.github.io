@@ -140,3 +140,21 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+.paper-link {
+  display: inline-block;
+  font-size: 12px;
+  padding: 2px 7px;
+  margin: 4px 3px 0 0;
+  border-radius: 4px;
+  border: 1px solid #1772d0;
+  color: #1772d0;
+  text-decoration: none;
+  line-height: 1.6;
+}
+
+.paper-link:hover {
+  background-color: #1772d0;
+  color: #fff;
+  text-decoration: none;
+}
